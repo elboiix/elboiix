@@ -8,16 +8,13 @@
 ## 💻 Programación
 
 ### 📚 Tema 1  
-<a href="https://github.com/usuario/practica-2">
+<a href="https://github.com/elboiix/practica-02-entorno-desarrollo.git">
   <img src="https://img.shields.io/badge/-Práctica_2-blue?style=for-the-badge&logo=github" />
 </a>  
-<a href="https://github.com/usuario/practica-3">
+<a href="https://github.com/elboiix/practica-03-comprobador-votantes.git">
   <img src="https://img.shields.io/badge/-Práctica_3-green?style=for-the-badge&logo=github" />
 </a>  
-<a href="https://github.com/usuario/practica-4">
-  <img src="https://img.shields.io/badge/-Práctica_4-orange?style=for-the-badge&logo=github" />
-</a>  
-<a href="https://github.com/usuario/examen-ud1">
+<a href="https://github.com/elboiix/EXAMEN_UD1_ADRIAN.git">
   <img src="https://img.shields.io/badge/-Examen_UD1-red?style=for-the-badge&logo=github" />
 </a>  
 
