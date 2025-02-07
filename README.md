@@ -4,7 +4,6 @@
 <div align="center">
 
 ## 💻 Programación
----
 
 ### 📚 UNIDAD 1  
 <a href="https://github.com/elboiix/practica-02-entorno-desarrollo.git">
@@ -72,7 +71,6 @@
 
 
 ## 🛠️ Entornos de Desarrollo  
----
 
 <a href="https://github.com/elboiix/pruebas-unitarias-vs">
   <img src="https://img.shields.io/badge/-Pruebas_Unitarias_VS-blue?style=for-the-badge&logo=github" />
