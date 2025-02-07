@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/-Proyecto_Individual-blue?style=for-the-badge&logo=github" />
 </a> 
 <a href="https://github.com/elboiix/practica-01-batalla-sadadadmurais">
-  <img src="https://img.shields.io/badge/-Actividad-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/-Actividad-green?style=for-the-badge&logo=github" />
 </a> 
 
 ### 📚 UNIDAD 5  
