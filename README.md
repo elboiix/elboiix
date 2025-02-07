@@ -1,6 +1,6 @@
 <div align="center">
 </div>
-<img src="https://i.imgur.com/S64r0jp.jpeg">
+<img src="https://i.imgur.com/1WvsT0t.jpeg">
 <div align="center">
 
 ## 💻 Programación
