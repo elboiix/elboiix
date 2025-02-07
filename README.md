@@ -1,8 +1,6 @@
 <div align="center">
 </div>
 <img src="https://i.imgur.com/S64r0jp.jpeg">
-# 📌 Repositorios Destacados
-
 <div align="center">
 
 ## 💻 Programación
