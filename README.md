@@ -34,8 +34,18 @@
 </a> 
 
 ### 📚 UNIDAD 3  
-_(Aquí irían más enlaces según los que necesites)_
-
+<a href="https://github.com/elboiix/practica-01-batalla-samurais">
+  <img src="https://img.shields.io/badge/-Práctica_1-blue?style=for-the-badge&logo=github" />
+</a> 
+<a href="https://github.com/elboiix/practica-02-sorteo-primitiva">
+  <img src="https://img.shields.io/badge/-Práctica_2-green?style=for-the-badge&logo=github" />
+</a> 
+<a href="https://github.com/elboiix/practica-03-sopa-letras">
+  <img src="https://img.shields.io/badge/-Práctica_3-yellow?style=for-the-badge&logo=github" />
+</a> 
+<a href="https://github.com/elboiix/EXAMEN_UD3_ADRIAN">
+  <img src="https://img.shields.io/badge/-Examen_UD3-red?style=for-the-badge&logo=github" />
+</a> 
 ### 📚 UNIDAD 4  
 _(Aquí irían más enlaces según los que necesites)_
 
