@@ -48,10 +48,26 @@
 </a> 
 
 ### 📚 UNIDAD 4  
-_(Aquí irían más enlaces según los que necesites)_
+<a href="https://github.com/elboiix/java-proyecto-individual-01">
+  <img src="https://img.shields.io/badge/-Proyecto_Individual-blue?style=for-the-badge&logo=github" />
+</a> 
+<a href="https://github.com/elboiix/practica-01-batalla-sadadadmurais">
+  <img src="https://img.shields.io/badge/-Actividad-blue?style=for-the-badge&logo=github" />
+</a> 
 
 ### 📚 UNIDAD 5  
-_(Aquí irían más enlaces según los que necesites)_
+<a href="https://github.com/elboiix/practica-01-batalla-samfsfsurais">
+  <img src="https://img.shields.io/badge/-Práctica_1-blue?style=for-the-badge&logo=github" />
+</a> 
+<a href="https://github.com/elboiix/practica-02-plantuml-poo">
+  <img src="https://img.shields.io/badge/-Práctica_2-green?style=for-the-badge&logo=github" />
+</a> 
+<a href="https://github.com/elboiix/practica-03-poo-librerias-lombok">
+  <img src="https://img.shields.io/badge/-Práctica_3-yellow?style=for-the-badge&logo=github" />
+</a> 
+<a href="https://github.com/elboiix/EXAMEN_UDdad5_ADRIAN">
+  <img src="https://img.shields.io/badge/-Examen_UD5-red?style=for-the-badge&logo=github" />
+</a> 
 
 ---
 
