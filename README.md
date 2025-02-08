@@ -75,7 +75,7 @@
 <a href="https://github.com/elboiix/pruebas-unitarias-vs">
   <img src="https://img.shields.io/badge/-Pruebas_Unitarias_VS-blue?style=for-the-badge&logo=github" />
 </a> 
-<a href="https://github.com/elboiix/practica-02-plantuddml-poo">
+<a href="https://github.com/elboiix/practica-4.1-documentacion-java">
   <img src="https://img.shields.io/badge/-Documentación_Automática_Java-green?style=for-the-badge&logo=github" />
 </a> 
 
