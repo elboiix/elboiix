@@ -56,7 +56,7 @@
 </a> 
 
 ### 📚 UNIDAD 5  
-<a href="https://github.com/elboiix/practica-01-batalla-samfsfsurais">
+<a href="https://github.com/elboiix/practica-01-poo.git">
   <img src="https://img.shields.io/badge/-Práctica_1-blue?style=for-the-badge&logo=github" />
 </a> 
 <a href="https://github.com/elboiix/practica-02-plantuml-poo">
