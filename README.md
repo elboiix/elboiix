@@ -65,7 +65,7 @@
 <a href="https://github.com/elboiix/practica-03-poo-librerias-lombok">
   <img src="https://img.shields.io/badge/-Práctica_3-yellow?style=for-the-badge&logo=github" />
 </a> 
-<a href="https://github.com/elboiix/EXAMEN_UDdad5_ADRIAN">
+<a href="https://github.com/elboiix/EXAMEN_UD5_ADRIAN.git">
   <img src="https://img.shields.io/badge/-Examen_UD5-red?style=for-the-badge&logo=github" />
 </a> 
 
